@@ -1,0 +1,20 @@
+{
+    "Author": "Nemanja.Jovic",
+    "ContentSize": 2868,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/change-azure-storage-blob-content-type/master/Set-AzStorageBlobContentType.ps1",
+    "DownloadCount": 390,
+    "Id": "Change-Azure-Storage-Blob-45893f7f",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 192,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2019-12-12T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "In case you're utilizing applications, you would like for each file in your storage account container to have the proper content type.Very powerfull Powershell function meant to change the content type of all files inside the Storage Account Container. Function is pretty generic",
+    "Title": "Change Azure Storage Blob Content Type",
+    "UpdatedDate": "2019-12-12T00:00:00",
+    "Url": "https://github.com/azureautomation/change-azure-storage-blob-content-type",
+    "UserTags": "Microsoft Azure, azure storage"
+}
